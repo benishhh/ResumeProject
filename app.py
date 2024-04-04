@@ -29,7 +29,7 @@ with st.container():
     st.title("Education")
   #  st.write("I am currently studying at the AGH University of Science and Technology, Faculty of Metals Engineering and Industrial Informatics, where I am majoring in Technical Informatics.")
   #  st.write("I am currently pursuing my degree at the AGH University of Science and Technology, Faculty of Metals Engineering and Industrial Informatics, specializing in Technical Informatics.")
-    st.write("I am currently in my third year of studies at the AGH University of Science and Technology, Faculty of Metals Engineering and Industrial Informatics, specializing in Technical Informatics.")
+    st.write("I am currently in my third year of studies at the AGH University of Science and Technology, Faculty of Metals Engineering and Industrial Informatics, specializing in Computer Science in Engineering.")
 
 
 # what i do
@@ -45,7 +45,7 @@ with st.container():
 #Alongside my studies, I am undertaking Java courses on javastart.pl and codegym.cc.
 
 """
-Pursuing a degree in Technical Computer Science, I am enrolled in Java courses on javastart.pl and codegym.cc. 
+Pursuing a degree in Computer Science in Engineering, I am enrolled in Java courses on javastart.pl and codegym.cc. 
 Throughout my academic journey, I have developed several projects as part of the 'Window and Mobile Applications' course.
 
 Beyond computer science, I have a keen interest in music.
